@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ricardo Eberhardt
+## Olá! Eu sou o Ricardo Eberhardt 👋
 <div>
   <a href="https://github.com/ricardoeberhardt">
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=ricardoeberhardt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
